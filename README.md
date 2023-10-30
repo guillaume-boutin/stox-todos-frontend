@@ -2,4 +2,6 @@
 
 ## Projet frontend du test technique de Stox. Utilise React + Vite.
 
-`npm run dev`, puis aller sur https://localhost:5173
+ - `npm install`
+ - `npm run dev`
+ - Aller sur https://localhost:5173
